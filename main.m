@@ -3,7 +3,7 @@
 %        Instrumentation and Measurement Research Group       %
 %                    University of Padova                     %
 %-----------------------------%%-----------------------------%%
-clc
+clc % adicionei aqui um comentário para ver se atualiza no git hub
 clear all
 close all
 
